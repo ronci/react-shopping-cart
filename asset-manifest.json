@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-shopping-cart/static/js/main.c250df53.js",
+    "static/media/serverErrorCharacter.png": "/react-shopping-cart/static/media/serverErrorCharacter.cbac33db64004cfd74f8.png",
+    "static/media/shoppingCart.svg": "/react-shopping-cart/static/media/shoppingCart.9544b5d6eddb8b36996d6e18ebefe559.svg",
+    "index.html": "/react-shopping-cart/index.html",
+    "main.c250df53.js.map": "/react-shopping-cart/static/js/main.c250df53.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c250df53.js"
+  ]
+}
